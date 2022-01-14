@@ -1,7 +1,7 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
-/*a.navbar-brand {
+a.navbar-brand {
   white-space: normal;
   text-align: center;
   word-break: break-all;
@@ -49,41 +49,41 @@ button.accept-policy {
 .image-profile {
     width: 150px;
     height: 150px;
-    border-radius: 50%;*/ /* To create circle */
-    /*margin: auto;*/ /* to center */
-    /*margin-top: -80px;*/ /* to pull the picure up */
-    /*display: block;*/ /* Makes the picture centered. Block acts like a <p> tag so you have for example linebreaks*/
-/*}*/
+    border-radius: 50%; 
+    margin: auto; 
+    margin-top: -80px;   
+    display: block;  
+}
 
-body {
+/*body {
     padding-bottom: 0px;
     padding-top: 20px;
     font-family: arial,sans-serif;
-    color: black; /* color on text*/
-    background: #ededed; /* color on whole page*/
-    font-size: 16px;
+    color: black;*/ /* color on text*/
+    /*background: #ededed;*/ /* color on whole page*/
+    /*font-size: 16px;
 }
 
-strong, h2 { /* we tell how h2 and strong tag are going to look*/
-    color: #3b5276;
-    font-weight: bold; /* sets text to bold*/
-    text-transform: uppercase;
+strong, h2 {*/ /* we tell how h2 and strong tag are going to look*/
+    /*color: #3b5276;
+    font-weight: bold;*/ /* sets text to bold*/
+    /*text-transform: uppercase;
     margin-top: 50px;
 }
 
-.container-main { /* extra styling for the container*/
-    background: #ffffff;
+.container-main {*/ /* extra styling for the container*/
+    /*background: #ffffff;
     margin-top: 80px;
-    padding: 0 30 30 30px; /* padding for top, right, bottom, left*/
-}
+    padding: 0 30 30 30px;*/ /* padding for top, right, bottom, left*/
+/*}
 
-header { /* Style for header-tag*/
-    min-height: 100px; /* sets minimum height on the header*/
-    overflow: auto; /*overflow decides what happends when a content overflows a box */
-}
+header {*/ /* Style for header-tag*/
+    /*min-height: 100px;*/ /* sets minimum height on the header*/
+    /*overflow: auto;*/ /*overflow decides what happends when a content overflows a box */
+/*}
 
-    header h1 { /* The h1-tag that is inside the header-tags*/
-        text-align: center;
+    header h1 {*/ /* The h1-tag that is inside the header-tags*/
+        /*text-align: center;
     }
 
 .contact-list {
@@ -91,15 +91,15 @@ header { /* Style for header-tag*/
     margin: 0;
 }
 
-    .contact-list li { /* The li-tag inside the contact-list*/
-        list-style-type: none;
+    .contact-list li {*/ /* The li-tag inside the contact-list*/
+        /*list-style-type: none;
         font-weight: bold;
-        line-height: 2.2em; /* px doesn't seem to work */
-        font-size: 20px;
+        line-height: 2.2em;*/ /* px doesn't seem to work */
+        /*font-size: 20px;
     }
 
-.media { /* Extends the media-class from Bootstrap */
-    background: #ededed;
+.media {*/ /* Extends the media-class from Bootstrap */
+    /*background: #ededed;
     padding: 10px;
 }
 
@@ -118,4 +118,4 @@ header { /* Style for header-tag*/
     background-color: #3b5276;
 }
 
-white-space: pre; /* Prevents removal of whitespace */
+white-space: pre;*/ /* Prevents removal of whitespace */

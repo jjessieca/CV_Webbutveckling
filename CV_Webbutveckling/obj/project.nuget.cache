@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "znzA194PfauuwVP8zdEhp9hOwX3eYOcFB9KjXSOiT0DXhzXopSo9XFUFLLrtnC3Jng5bqn3DBCRUVp3G+mts8Q==",
+  "dgSpecHash": "usipAv2TOhluOmmklE2OIssttomWDP6qLu5VIy8wo8zeTOm9DhJDsVzwUT/JKvk+b4LZgvDcM2+OkBPCa1Ca6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\jessi\\source\\repos\\CV_Webbutveckling\\CV_Webbutveckling\\CV_Webbutveckling.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jessi\\.nuget\\packages\\bootstrap\\5.1.3\\bootstrap.5.1.3.nupkg.sha512"
+  ],
   "logs": []
 }
